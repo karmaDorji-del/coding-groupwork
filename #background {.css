@@ -1,0 +1,5 @@
+#background {
+    background-image: url(css3_logo.png), url(background_img.jpg);
+    background-position: left top;
+    background-repeat: no-repeat, repeat;
+    background-size: 100px 100px, cover;
